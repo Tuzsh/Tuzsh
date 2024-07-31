@@ -331,7 +331,7 @@ OPFin_Warning.Size = UDim2.new(0.659003198, 0, 0.272885799, 0)
 OPFin_Warning.ZIndex = 2
 OPFin_Warning.Font = Enum.Font.SourceSans
 OPFin_Warning.FontSize = Enum.FontSize.Size18
-OPFin_Warning.Text = "Don't skid this script Thinh Beo>:("
+OPFin_Warning.Text = "Thinh Bel can't skid this script LOL=))"
 OPFin_Warning.TextColor3 = Color3.new(0.92549, 0.941177, 0.945098)
 OPFin_Warning.TextSize = 18
 OPFin_Warning.TextWrapped = true
