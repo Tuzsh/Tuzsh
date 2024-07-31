@@ -283,7 +283,7 @@ Text_FE_ENABLED.Size = UDim2.new(0.795348704, 0, 0.227404833, 0)
 Text_FE_ENABLED.Visible = false
 Text_FE_ENABLED.Font = Enum.Font.SourceSansItalic
 Text_FE_ENABLED.FontSize = Enum.FontSize.Size24
-Text_FE_ENABLED.Text = "This game is Filtering Enabled! Enjoy using Unknown hub bro."
+Text_FE_ENABLED.Text = "This game is Filtering Enabled! Enjoy using Unknown hub."
 Text_FE_ENABLED.TextSize = 19
 
 WhatIsOPFinality.Name = "WhatIsOPFinality?"
@@ -331,7 +331,7 @@ OPFin_Warning.Size = UDim2.new(0.659003198, 0, 0.272885799, 0)
 OPFin_Warning.ZIndex = 2
 OPFin_Warning.Font = Enum.Font.SourceSans
 OPFin_Warning.FontSize = Enum.FontSize.Size18
-OPFin_Warning.Text = "This was configured by Tuz>:) Lol"
+OPFin_Warning.Text = "Don't skid this script Thinh Beo>:("
 OPFin_Warning.TextColor3 = Color3.new(0.92549, 0.941177, 0.945098)
 OPFin_Warning.TextSize = 18
 OPFin_Warning.TextWrapped = true
